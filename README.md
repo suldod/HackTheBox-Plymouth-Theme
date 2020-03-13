@@ -14,7 +14,7 @@ Getting Started
 
 Install
 
-sudo cp -R ./brogit-plymouth-theme /usr/share/plymouth/themes/
+sudo cp -R ./HackTheBox-Plymouth-Theme /usr/share/plymouth/themes/
 
 
-sudo plymouth-set-default-theme brogit-plymouth-theme -R
+sudo plymouth-set-default-theme HackTheBox-Plymouth-Theme -R
