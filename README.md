@@ -1,6 +1,7 @@
 # HackTheBox-Plymouth-Theme
 Simple Plymouth Theme with HackTheBox logo!
 
+
 Getting Started
 
     Use sudo preview.sh to view actual Plymouth splash
@@ -14,4 +15,6 @@ Getting Started
 Install
 
 sudo cp -R ./brogit-plymouth-theme /usr/share/plymouth/themes/
+
+
 sudo plymouth-set-default-theme brogit-plymouth-theme -R
